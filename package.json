@@ -1,0 +1,23 @@
+{
+  "name": "drift-runners-ws",
+  "version": "0.0.1",
+  "description": "Drift Runner WebSocket Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/retepmal/drift-runners-ws.git"
+  },
+  "author": "Peter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/retepmal/drift-runners-ws/issues"
+  },
+  "homepage": "https://github.com/retepmal/drift-runners-ws",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5"
+  }
+}
